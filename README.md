@@ -8,6 +8,7 @@
 ## Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
   
   ![image](images/san.png)
+  
   Users can filter through specific city, state, country, and shape to gain more insight on UFO sightings allowing more in dept analysis on occurences. 
   
   For example, San Diego had 3 sightings in 2010 all occuring in January lasting for a max of 20 minuites.  

@@ -18,6 +18,6 @@
 
 # Summary: 
 ## In a summary statement, describe one drawback of this new design and two recommendations for further development.
-  One drawback is being able to visual the data in a graph. 
+  One drawback is not being able to visual the data in a graph. 
   
   This design can benifit from graphs to visual the data and the option to import and export new data to further analysis with data. 

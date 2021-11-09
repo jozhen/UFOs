@@ -11,8 +11,8 @@
   
   Users can filter through specific city, state, country, and shape to gain more insight on UFO sightings allowing more in dept analysis on occurences. 
   
-  ## How the javascript work: 
-  The app.js will find the corresponding results and return the data to the table. 
+  ## How the app work: 
+  The app.js will find the corresponding results and return the data to the table with the 2 functions define in the file. 
   
   For example, filter the city with San Diego will return 3 sightings in 2010 all occuring in January lasting for a max of 20 minuites.  
 
